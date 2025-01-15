@@ -15,5 +15,8 @@
     "express": "^4.21.2",
     "pg": "^8.13.1",
     "routes": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
